@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name"> Projektmanagement </string>
+    <string name="hello_world">Hello world!</string>
+    <string name="name">Projekttitel</string>
+    <string name="description">Projektbeschreibung</string>
+    <string name="email">Email</string>
+    <string name="add">hinzufügen</string>
+    <string name="address">Adresse</string>
+     <string name="tech">Technologien</string>
+    <string name="phone_number">Telefonnummer</string>
+    <string name="website">Unternehmenswebseite</string>
+    <string name="company_name">Firmenname</string>
+    <string name="add_new_company">Neues Projekt Firma</string>
+    <string name="all_companies">Firma</string>
+    <string name="no_company_in_the_database_create_new_one_by_clicking_the_add_button_at_the_top_right">Keine Firma in der Datenbank. Erstellen Sie eine neue, indem Sie auf die Taste des Hinzufügen rechts oben klicken. </string>
+	<string name="empty_fields_message">Eine oder mehrere Eingaben sind leer </string>
+	<string name="cost">Projektgebühr</string>
+	<string name="all_projects">Projekts</string>
+	<string name="no_project_for_this_company_add_a_new_one_by_clicking_the_add_button_on_the_top_right">Kein Projekt für dieses Unternehmen. Fügen Sie einen neuen, indem Sie auf die Taste des Hinzufügen rechts oben klicken </string>
+	<string name="add_new_project">Neues Projekt hinzufügen</string>
+	<string name="select_a_company">Wählen Sie eine Firma </string>
+	<string name="delete">Löschen</string>
+	<string name="company_deleted_successfully">Firma erfolgreich gelöscht</string>
+	<string name="project_deleted_successfully">Projekt erfolgreich gelöscht</string>
+	<string name="company_created_successfully">Firma erfolgreich hinzugefügt</string>
+	<string name="project_created_successfully">Projekt erfolgreich hinzugefügt</string>
+</resources>
